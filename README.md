@@ -35,7 +35,7 @@ Outputs per dataset and classifier: `*_folds.csv` (fold metrics) and `*_ranking.
 
 ## Example result: GSE26910 (breast, 6 tumour vs 6 normal, 54,675 probes)
 
-Run with the default settings (3 folds × 10 repeats, seed 0) on 2026-11-12:
+Default settings (3 folds × 10 repeats, seed 0):
 
 | Classifier | Balanced accuracy | ROC-AUC | Highest selection frequency (top-20) |
 |---|---|---|---|
